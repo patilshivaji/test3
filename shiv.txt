@@ -1,2 +1,3 @@
 welcome to avalonsolution
 just  changes server side in shiv file 
+some changes designer side
